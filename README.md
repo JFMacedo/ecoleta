@@ -1,14 +1,14 @@
-# ECOLETA
+## ECOLETA
 
-## SOBRE
+### SOBRE
 O **Ecoleta** é um marketplace de coleta de resíduos.
 
-Aplicação web construída na trilha **Starter** da **Next Level Week** distribuída pela [Rocketseat](https://rocketseat.com.br/)
+Aplicação web construída durante a **Next Level Week Starter** distribuída pela [Rocketseat](https://rocketseat.com.br/)
 
-## INSTRUTOR
+### INSTRUTOR
 As aulas foram ministradas por [Mayk Brito](https://github.com/maykbrito).
 
-## TECNOLOGIAS APLICADAS
+### TECNOLOGIAS APLICADAS
 - HTML5
 - CSS3
 - JavaScript
