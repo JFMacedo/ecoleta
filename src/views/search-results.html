@@ -14,13 +14,15 @@
   {% include "partials/page-header.html" %}
   <main>
     <h4>
-      <strong>{{ total }}</strong>
-        {% if total == 1 %}
-          <strong>ponto</strong> encontrado
-        {% endif %}
-        {% if total > 1 %}
-          <strong>pontos</strong> encontrados
-        {% endif %}
+      {% if total == 0 %}
+        <strong>Nenhum ponto</strong> encontrado
+      {% endif %}
+      {% if total == 1 %}
+        <strong>{{ total }} ponto</strong> encontrado
+      {% endif %}
+      {% if total > 1 %}
+        <strong>{{ total }} pontos</strong> encontrados
+      {% endif %}
     </h4>
     <div class="cards">
       {% for place in places %}

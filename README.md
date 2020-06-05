@@ -15,3 +15,4 @@ As aulas foram ministradas por [Mayk Brito](https://github.com/maykbrito).
 - NodeJs
 - Nunjuck
 - Nodemon
+- SQLite3

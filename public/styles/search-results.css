@@ -1,12 +1,16 @@
+body {
+  background-color: #FFFFFF;
+}
+
 body::after {
   content: '';
-  position: fixed;
-  top: 260px;
-  bottom: 0;
+  position: absolute;
+  top: 0;
   left: 0;
   right: 0;
+  height: 16rem;
   z-index: -1;
-  background-color: #FFFFFF;
+  background-color: #F0F0F5;
 }
 
 #page-search-results {
