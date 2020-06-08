@@ -9,9 +9,9 @@ Aplicação web construída durante a **Next Level Week Starter** distribuída p
 As aulas foram ministradas por [Mayk Brito](https://github.com/maykbrito).
 
 ### TECNOLOGIAS APLICADAS
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
 - NodeJs
 - Nunjuck
 - Nodemon
